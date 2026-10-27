@@ -5,7 +5,7 @@ import java.util.Scanner;
 	  
 	  double number;
 	  System.out.println("Enter the number");
-	   number = input.nextInt();
+	   number = input.nextDouble();
 	   
 	   
 	  double square;
